@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fondos para flyers"
+  short_description: "Fondos elegantes según el show, la paleta y el layout"
+  default_prompt: "Usa $flyer-backgrounds para generar un fondo comercial limpio que interprete el show y deje espacio para título y personajes."
