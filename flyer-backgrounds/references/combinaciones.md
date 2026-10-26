@@ -9,8 +9,13 @@
 | Foco | Centro, tercio izquierdo/derecho, superior, inferior | Iluminar sujeto sin invadir título y pie |
 | Atmósfera | Limpia, humo difuso, bloom, bokeh escaso, grano fino | Usar máximo dos tratamientos discretos |
 | Profundidad | Pie oscuro, bordes suaves, contraluz, transición lateral | Dejar información comercial sobre campo uniforme |
+| Encuadre | Frontal, oblicuo, bajo, contrapicado leve, recorte macro, fragmento lateral | Justificar giro y zoom por montaje, no por efecto gratuito |
+| Patrón contextual | Malla acústica, retícula LED, vidrio, mosaico, trama conceptual | Densidad baja y vínculo con disco/show; no plantilla decorativa |
+| Fotografía periférica | Cabina, barra, luces, percusión, detalle temático | Escena secundaria; centro y zonas de lectura protegidos |
 
 Usar colores de cualquier familia. Desaturar la mezcla complementaria o separarla espacialmente para evitar un centro turbio. Tratar códigos hex como objetivos de dirección, no garantía de reproducción exacta por generación. Reducir saturación en zonas de lectura. No usar arcoíris salvo pedido explícito.
+
+En esta campaña partir del ámbar cuando no haya otra indicación. Variar hacia vino/cobre, petróleo/ámbar, ciruela/rosa u otras relaciones si el concepto lo justifica; son posibilidades, no asociaciones fijas. Una serie puede compartir acabado, contraste y utilidad sin compartir el mismo color.
 
 ## Lecturas contextuales y recetas de ejemplo
 | Contexto | Lectura | Receta posible |
@@ -35,3 +40,9 @@ Tomar ejemplos como posibilidades, nunca presets obligatorios. Cambiar la receta
 - “Mismo show, otro layout”: modificar foco y estructura tonal; mantener paleta y zonas comerciales.
 - “Fondo para texto negro”: usar zona de lectura clara; no aplicar pie oscuro bajo ese texto sin adaptación.
 - “Referencia llena de elementos”: extraer solo atmósfera; excluir personaje, título y promociones.
+- “Patrón de disco”: explorar una trama contextual con escala y orientación intencionales; no ondas doradas de stock.
+- “Fotos sutiles”: admitir fragmentos periféricos, evitando escena protagonista y sin órdenes contradictorias de excluir todo objeto.
+- “Agenda de seis shows”: campo central más amplio y uniforme, sin luces o detalle compitiendo con tarjetas.
+- “Promoción de un trago”: espacio de oferta/precio separado del producto, sin inventar botella, marca o beneficio.
+- “Otra variante distinta”: cambiar composición o encuadre y otro eje; recolor más otro grano no cuenta.
+- “Alta calidad y alto impacto”: lograrlo mediante luz, relaciones cromáticas y profundidad; no acumular objetos y humo.
